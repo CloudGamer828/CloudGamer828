@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CloudGamer828
+- 👀 I’m interested in Coding, Minecraft, Discord Bots
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on discord
+- 📫 How to reach me CloudGamer131#1703 on discord
